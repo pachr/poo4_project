@@ -46,6 +46,7 @@ $> git checkout -b <branch_name>
 
 ```bash
 $> git add <file_name>
+$> git diff --staged (To check your updates with the last commit)
 $> git commit -m "<message>"
 ```
 
@@ -59,7 +60,7 @@ $> git push origin <branch_name>
 
 1. With a command line
 
-*ON YOUR BRANCH*
+**ON YOUR BRANCH**
 
 ```bash
 $> hub pull-request -b develop
@@ -67,6 +68,13 @@ $> hub pull-request -b develop
 
 2. With github GUI
 
+[Click here to see all the pull requests](https://github.com/pachr/poo4_project/pulls)
+
+- Click on "New Pull Request Button" 
+- Select *develop* branch for the *base* branch
+- Select your branch in *compare*
+- Create the pull request
+- Tag @TimDzik in the description or in comments
 
 ##Contributors: 
 - Lucien Fregosi 
