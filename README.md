@@ -45,3 +45,11 @@ $> hub pull-request -b develop
 ```
 
 2. With github GUI
+
+
+##Contributors: 
+- Lucien Fregosi 
+- Paul-Alexandre Chretien 
+- Mohammed Belkheiri
+- Timothee Dzik 
+
