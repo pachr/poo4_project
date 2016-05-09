@@ -13,8 +13,28 @@ hs_err_pid*
 
 
 #ant specific
+ProdStock/ProdStock-ejb/dist/
+ProdStock/ProdStock-war/dist/
 ProdStock/dist/
-Prodstock/build/
+
+ProdStock/ProdStock-ejb/build/
+ProdStock/ProdStock-war/build/
+ProdStock/build/
+
+ProdStock/ProdStock-ejb/nbproject/private/
+ProdStock/ProdStock-war/nbproject/private/
+ProdStock/nbproject/private/
+
+ProdStock/ProdStock-ejb/nbbuild/
+ProdStock/ProdStock-war/nbbuild/
+ProdStock/nbproject/nbbuild/
+
+ProdStock/ProdStock-ejb/nbdist/
+ProdStock/ProdStock-war/nbdist/
+ProdStock/nbproject/nbdist/
+
+ProdStock/ProdStock-ejb/dist/
+ProdStock/ProdStock-ejb/build/
 
 #netbeans specific
 ProdStock/core
