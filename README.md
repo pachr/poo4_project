@@ -34,7 +34,7 @@ git clone git@github.com:pachr/poo4_project.git (If you have a public Key)
 
 **FROM MASTER BRANCH ONLY**
 
-Check you local branch
+Check your local branch
 
 ```bash
 $> git checkout master
@@ -65,6 +65,7 @@ $> git push origin <branch_name>
 ```bash
 $> hub pull-request -b develop
 ```
+[Hub documentation](https://github.com/github/hub)
 
 2. With github GUI
 
